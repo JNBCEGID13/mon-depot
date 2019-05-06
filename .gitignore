@@ -1,0 +1,4 @@
+# un commentaire
+config.yml
+/logs
+!/logs/.gitkeep
